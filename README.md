@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CSS Grid Generator
 
-## Getting Started
+[![TypeScript](https://img.shields.io/badge/TypeScript-98.7%25-blue)](https://www.typescriptlang.org/)
+[![CSS](https://img.shields.io/badge/CSS-1.1%25-purple)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Next.js](https://img.shields.io/badge/Next.js-13.4%2B-black)](https://nextjs.org/)
 
-First, run the development server:
+A powerful and intuitive CSS Grid Generator built with Next.js and TypeScript. This tool helps developers create complex CSS grid layouts with ease, providing a visual interface and generating production-ready code.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Visual Grid Editor**: Drag-and-drop interface for creating and modifying grid layouts
+- **Responsive Design**: Test your layouts across desktop, tablet, and mobile views
+- **Code Generation**: Outputs clean, optimized CSS and HTML
+- **Templates**: Pre-built layouts to kickstart your design
+- **Customization**: Fine-tune grid properties, including gap, alignment, and named areas
+- **Export Options**: Download your CSS and HTML or copy directly to clipboard
+- **Undo/Redo**: Full history tracking for all changes
+- **Save/Load**: Store your grid configurations for later use
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is built with Next.js. To get started:
